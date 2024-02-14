@@ -1,6 +1,5 @@
----
 
-# Nextcord Server Control Bot
+# Datalix Server Control Bot
 
 ## Table of Contents
 
@@ -74,4 +73,3 @@ While this project is not actively maintained, contributions are still welcome. 
 
 Released under the [MIT License](LICENSE).
 
----
