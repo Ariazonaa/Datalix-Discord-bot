@@ -13,7 +13,7 @@ bot = commands.Bot(intents=intents)
 
 service_id = "YOUR SERVICE ID"
 api_token = "YOUR API TOKEN"
-allowed_user_id = 1118861313108615168  #YOUR DISCORD SERVER ID
+allowed_user_id = 1118861313108615168  #YOUR DISCORD USER ID
 
 
 statuses = [
